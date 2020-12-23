@@ -1,5 +1,5 @@
 # Quiz app Tenta
 
-## Authors
+## Author
 
 * **Martin Salomonsson** 
