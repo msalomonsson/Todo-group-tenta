@@ -47,7 +47,6 @@ class Ui {
             <div class="top-wrapper">
                 <h3>Martin JS App</h3>
             </div>
-
             <div class="form-container">
                 <form>
                     <input type="text" class="input-box" placeholder="Add Task">
@@ -58,10 +57,9 @@ class Ui {
                     </div>
                 </form>
             </div>
-
             <div class="task-container">
                 <ul class="task-list">
-                    
+                
                 </ul>
             </div>
         `;

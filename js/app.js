@@ -16,6 +16,4 @@ import Modify from './modify.js'
         })
     });
     
-
-
 }())
