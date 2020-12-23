@@ -9,7 +9,7 @@
 }
 
 body {
-    background: radial-gradient(circle, rgb(245, 245, 243) 45%, rgb(182, 184, 185) 100%);
+    background: radial-gradient(linear, rgb(245, 245, 243) 45%, rgb(182, 184, 185) 100%);
     font-family: 'Roboto', sans-serif;
     position: relative;
 }

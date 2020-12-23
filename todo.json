@@ -6,5 +6,9 @@
     {
         "task": "Laga mat",
         "id": 2
+    },
+    {
+        "task": "Work on Javascript",
+        "id": 3
     }
 ]
