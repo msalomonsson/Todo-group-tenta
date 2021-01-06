@@ -5,7 +5,7 @@ class Ui {
         const tasklist = document.querySelector('.task-list')
         const button = document.querySelector('.btn').addEventListener('click',addTask)
 
-        
+
         /* Append todo.json to DOM */
         for(let i = 0; i < taskObj.length; i++){
             tasklist.innerHTML += `
